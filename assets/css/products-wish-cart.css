@@ -468,6 +468,11 @@ h6 {
     width: 688px;
   }
 
+
+  .modal-container {
+    width: 688px;
+  }
+
   #modal {
     width: 688px;
     border: none;
@@ -547,6 +552,10 @@ h6 {
 
   .product-order {
     width: 327px;
+  }
+
+  .modal-container {
+    width: 375px;
   }
 
   #modal {
