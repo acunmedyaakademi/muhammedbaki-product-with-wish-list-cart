@@ -554,16 +554,16 @@ h6 {
     width: 327px;
   }
 
-  .modal-container {
-    width: 375px;
-  }
 
   #modal {
     width: 375px;
     border: none;
     margin: auto;
     border-radius: 10px;
-    padding: 40px;
+    padding: 40px 24px;
+  }
+  .modal-container {
+    width: 327px;
   }
 
   .modal-order-item {
